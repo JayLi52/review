@@ -29,5 +29,7 @@
   limit(2, [1000, 1000, 1000, 1000], timeout).then((res) => {
     console.log(res)
     console.log('res')
+    console.log('res')
+    console.log('res')
   })
   
